@@ -114,17 +114,17 @@ Pearson  correlation was used to determine the results. It was compared against 
 
  Images of the top 3 most highly correlated attributes for high average rating are shown below .. Graphs for the other attributes, including  those against the average weight of a game can be found in the attached notebook.
 
-![Figure 1](./images/Pasted image 20260819113235.png)
+![Figure 1](images/Pasted image 20260819113235.png)
 
 
 Figure 1 : Scatter graph of average rating against average weight. The 1st correlation matrix used Pearson correlation. The 2nd correlation matrix used Spearman correlation. The 3rd correlation matrix used Kendall 
 
 
-![Figure 2](./images/Pasted image 20260819113429.png)
+![Figure 2](images/Pasted image 20260819113429.png)
 
 Figure 2 : Scatter graph of average rating against max playtime, with  outliers of play time above 1200 minutes removed. Correlation matrix used Pearson, and was calculated after the removal of the outliers.  
 
-![Figure 3](./images/Pasted image 20260819113500.png)
+![Figure 3](images/Pasted image 20260819113500.png)
 
 Figure 3: scatter graph of average rating against the number of 'wishes' on a games page. The correlation matrix used Pearson  
 ## Summary 
